@@ -4,3 +4,5 @@
 
 - JS Vanilla
 - TypeScript
+- DOM manipulation
+- Features ( Drag and Drop )
